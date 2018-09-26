@@ -1,8 +1,9 @@
 # Andy D. Martinez
 
-### Projects
+### Repositories
 
 * [Artificial-Intelligence](https://github.com/andydmh/Artificial-Intelligence)
+Projects and infomation about AI as a general field.
 
 * [Test Java](https://github.com/andydmh/TestJava)
 
