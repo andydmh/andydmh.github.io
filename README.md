@@ -1,6 +1,6 @@
 # Andy D. Martinez
 
-[UCF Site](http://www.cs.ucf.edu/~martinez/)
+[UCF Personal Website](http://www.cs.ucf.edu/~martinez/)
 
 ### General Repositories
 
