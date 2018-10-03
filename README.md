@@ -1,5 +1,7 @@
 # Andy D. Martinez
 
+[Personal Site](http://andydanielmartinez.com)
+
 [UCF Personal Website](http://www.cs.ucf.edu/~martinez/)
 
 ### General Repositories
